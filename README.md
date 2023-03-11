@@ -27,7 +27,7 @@ Formado em Desenvolvimento de Sistemas, atualmente faço projetos utilizando HTM
 
 #
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cassio-Lopes&color=yellow" alt="Profile views"/></p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cassio-Lopes&color=blue" alt="Profile views"/></p> 
 
 <a href="https://www.linkedin.com/in/cassio-lopes-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
