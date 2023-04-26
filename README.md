@@ -5,11 +5,13 @@ Formado em Desenvolvimento de Sistemas, atualmente faço projetos utilizando HTM
 
 #
 
-<div align="center">
+  ##
+  <p align="center">
   <a href="https://github.com/Cassio-Lopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cassio-Lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio-Lopes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cassio-Lopes&show_icons=true&theme=dracula&include_all_commits=true&"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cassio-Lopes&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+  </p>
 
 
 #
@@ -28,8 +30,14 @@ Formado em Desenvolvimento de Sistemas, atualmente faço projetos utilizando HTM
 #
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cassio-Lopes&color=blue" alt="Profile views"/></p> 
-
-<a href="https://www.linkedin.com/in/cassio-lopes-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+<p align="left">
+<a href="https://www.linkedin.com/in/cassio-lopes-659b1215b/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+</p>   
+ 
+  
+  
+  
   
 
 ![snake gif](https://github.com/Cassio-Lopes/cassio-lopes/blob/output/github-contribution-grid-snake.svg)     
