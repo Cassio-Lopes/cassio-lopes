@@ -1,11 +1,12 @@
 ## Olá, me chamo Cassio Lopes
 
-## Sobre Min
+ Sobre Mim
 Formado em Desenvolvimento de Sistemas, atualmente faço projetos utilizando HTML, CSS, Javascript. Focado em desenvolvimento Front-End. HTML, CSS, JS são meus principais pontos focais. Estou em transição de carreira. Sou apaixonado por tecnologia, por isso estou sempre estudando e buscando conhecimentos para aprimorar minhas habilidades. Com cursos e projetos pessoais.
 
-#
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cassio-Lopes&color=blue" alt="Profile views"/></p> 
+</br>
 
-  ##
   <p align="center">
   <a href="https://github.com/Cassio-Lopes">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cassio-Lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,7 +15,7 @@ Formado em Desenvolvimento de Sistemas, atualmente faço projetos utilizando HTM
   </p>
 
 
-#
+
 
 
 <div style="display: inline_block"><br>
@@ -29,14 +30,15 @@ Formado em Desenvolvimento de Sistemas, atualmente faço projetos utilizando HTM
 
 #
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cassio-Lopes&color=blue" alt="Profile views"/></p> 
+
  
-<p align="left">
+<br>
+
+Concecte-se Comigo!
 <a href="https://www.linkedin.com/in/cassio-lopes-659b1215b/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-</p>   
+
  
-  
-  
+ </br> 
   
   
 
